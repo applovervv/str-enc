@@ -1,0 +1,7 @@
+C:\Users\gksen\Documents\strenc\STREnc\bin\Debug\STREnc.exe
+C:\Users\gksen\Documents\strenc\STREnc\bin\Debug\STREnc.pdb
+C:\Users\gksen\Documents\strenc\STREnc\obj\Debug\STREnc.csproj.AssemblyReference.cache
+C:\Users\gksen\Documents\strenc\STREnc\obj\Debug\STREnc.csproj.SuggestedBindingRedirects.cache
+C:\Users\gksen\Documents\strenc\STREnc\obj\Debug\STREnc.csproj.CoreCompileInputs.cache
+C:\Users\gksen\Documents\strenc\STREnc\obj\Debug\STREnc.exe
+C:\Users\gksen\Documents\strenc\STREnc\obj\Debug\STREnc.pdb
